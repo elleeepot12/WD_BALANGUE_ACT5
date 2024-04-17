@@ -1,0 +1,40 @@
+.box{
+    background-color: rgb(255, 94, 212);
+    height: 200px;
+    width: 100%;
+    margin-top: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.header{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.header h1,p{
+    margin: 0;
+    padding: 0;
+}
+#logo {
+    width: 100px;
+    height: 100px;
+}
+.col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-8{
+    margin: 10px;
+}
+
+.row{
+    margin-top: 10px;
+}
+
+.box.two-row{
+    height: 410px;
+    
+}
+
+.box h3{
+    text-align: center;
+    color: white;
+}
